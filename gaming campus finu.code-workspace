@@ -1,0 +1,22 @@
+{
+  "folders": [
+	{
+		"path": "../../cours html css"
+	},
+	{
+		"path": "../../cours CSS"
+	},
+	{
+		"path": "../../cours html css/Tableau complexe"
+	},
+	{
+		"path": "../../cours html"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Projet"
+  }
+}
